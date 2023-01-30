@@ -1,26 +1,32 @@
 
 body {
-background-image: url(./img/sfondo.png);
+background-image: url(./img/sfondo\ vero.png);
    z-index: -2;
    background-repeat: no-repeat;
 }
 
+
+
 h1 {
-    color: #E7C6FF;
+    color: #C8B6FF;
     margin-top: 300px;
     font-size: 130px;
+    font-family: 'Dancing Script', cursive;
 }
 
 
 .text-center {
-    color: #BBD0FF;
+    color: #553324;
     margin-top: 30px;
     margin-left: 90px;
     font-size: 60px;
+    font-family: 'Playfair Display', serif;
 }
 
 h2{
-    color: #BBD0FF;
+    color: #7DA6FF;
+    font-family: 'Dancing Script', cursive;
+    font-size: 70px;
 }
 
 
@@ -34,6 +40,7 @@ h2{
 .carte {
     display: flex;
     justify-content: center;
+    margin-top: 10%;
 }
 
 
@@ -44,10 +51,12 @@ h2{
 
 .card-title {
     color: white;
+    font-family: 'Playfair Display', serif;
 }
 
 .card-text {
     color: white;
+    font-family: 'Playfair Display', serif;
 }
 
 
@@ -64,11 +73,13 @@ justify-content: space-between;
     /* margin-right: 410px; */
     color: #553324;
     font-size: 18px;
+    font-family: 'Playfair Display', serif;
 }
 
 .nav-link {
     color: #553324;
     font-size: 18px;
+    font-family: 'Playfair Display', serif;
 }
 .navbar{
 background-color: #BBD0FF;
@@ -76,8 +87,14 @@ background-color: #BBD0FF;
 
 .dropdown-menu {
     color: #E7C6FF;
+    font-family: 'Playfair Display', serif;
 }
 
 .navbar-nav{
-
+margin-right: 330px;
 }
+
+
+
+
+

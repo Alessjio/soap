@@ -1,0 +1,79 @@
+body {
+    background-color: #BBD0FF;
+}
+
+
+
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+    color: #553324;
+    font-family: 'Playfair Display', serif;
+    font-size: 80px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+    color: #553324;
+    font-family: 'Playfair Display', serif;
+    font-size: 80px;
+}
+
+
+
+
+.carte_prodotti {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 18vh;
+
+    
+}
+
+.badge {
+    background-color: #E7C6FF;
+    font-size: 30px;
+    color: #553324;
+}
+
+.card {
+    background-color: #553324;
+}
+
+.card-title,
+.card-text {
+    color: white;
+    font-family: 'Playfair Display', serif;
+}
+
+
+.nav-item2 {
+    color: #553324;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+}
+
+.nav-link {
+    color: #553324;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+}
+.navbar{
+background-color: #E7C6FF;
+}
+
+.dropdown-menu {
+    color: #E7C6FF;
+    font-family: 'Playfair Display', serif;
+}
+
+.navbar-nav{
+margin-right: 330px;
+}
