@@ -1,0 +1,83 @@
+
+body {
+background-image: url(./img/sfondo.png);
+   z-index: -2;
+   background-repeat: no-repeat;
+}
+
+h1 {
+    color: #E7C6FF;
+    margin-top: 300px;
+    font-size: 130px;
+}
+
+
+.text-center {
+    color: #BBD0FF;
+    margin-top: 30px;
+    margin-left: 90px;
+    font-size: 60px;
+}
+
+h2{
+    color: #BBD0FF;
+}
+
+
+
+
+
+
+
+
+
+.carte {
+    display: flex;
+    justify-content: center;
+}
+
+
+.card {
+    background-color: #553324;
+}
+
+
+.card-title {
+    color: white;
+}
+
+.card-text {
+    color: white;
+}
+
+
+
+/* .navbar-nav,
+.mr-auto {
+flex: 1;
+margin: auto !important;
+display: flex;
+justify-content: space-between;
+} */
+
+.nav-item2 {
+    /* margin-right: 410px; */
+    color: #553324;
+    font-size: 18px;
+}
+
+.nav-link {
+    color: #553324;
+    font-size: 18px;
+}
+.navbar{
+background-color: #BBD0FF;
+}
+
+.dropdown-menu {
+    color: #E7C6FF;
+}
+
+.navbar-nav{
+
+}
